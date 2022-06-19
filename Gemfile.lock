@@ -261,7 +261,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-theme-midnight
   kramdown-parser-gfm
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
    2.3.16
